@@ -1,0 +1,100 @@
+ID,Age,Gender,FL,Level,How long (months),Purpose,Other languages,Academic status,NL,Devices owned,Activity,Device,Frequency,Experienced,Beneficiality
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read fiction,Computer,never,yes,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read fiction,Phone,several time per month,yes,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read fiction,Tablet,several time per month,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Read news, articles from newspapers and magazines",Computer,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Read news, articles from newspapers and magazines",Phone,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Read news, articles from newspapers and magazines",Tablet,several time per month,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use dictionary,Computer,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use dictionary,Phone,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use dictionary,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Browse websites,Computer,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Browse websites,Phone,several time per day,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Browse websites,Tablet,several time per month,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read e-mails,Computer,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read e-mails,Phone,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read e-mails,Tablet,several time per month,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read SMS,Computer,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read SMS,Phone,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read SMS,Tablet,never,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read messages on social media,Computer,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read messages on social media,Phone,several time per day,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read messages on social media,Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read news and articles on social media,Computer,never,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read news and articles on social media,Phone,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read news and articles on social media,Tablet,never,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read posts on social media,Computer,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read posts on social media,Phone,several time per day,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Read posts on social media,Tablet,never,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write messages on social media (synchronous online chatting),Computer,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write messages on social media (synchronous online chatting),Phone,several time per month,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write messages on social media (synchronous online chatting),Tablet,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,several time per month,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch online lectures,Computer,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch online lectures,Phone,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch online lectures,Tablet,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch news,Computer,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch news,Phone,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch news,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to podcasts,Computer,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to podcasts,Phone,several time per day,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to podcasts,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to voice messages,Computer,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to voice messages,Phone,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to voice messages,Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to music,Computer,several time per week,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to music,Phone,several time per week,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to music,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch TV shows,Computer,several time per month,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch TV shows,Phone,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch TV shows,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch movies,Computer,several time per month,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch movies,Phone,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Watch movies,Tablet,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to radio,Computer,several time per week,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to radio,Phone,several time per week,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Listen to radio,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Voice call,Computer,never,no,1
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Voice call,Phone,several time per month,no,1
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Voice call,Tablet,never,no,1
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record voice (make an audio recording of yourself),Computer,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record voice (make an audio recording of yourself),Phone,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record voice (make an audio recording of yourself),Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record videos,Computer,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record videos,Phone,several time per week,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Record videos,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Make a reservation for transportation, restaurant, hotel, etc.",Computer,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Make a reservation for transportation, restaurant, hotel, etc.",Phone,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Make a reservation for transportation, restaurant, hotel, etc.",Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Video call,Computer,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Video call,Phone,several time per month,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Video call,Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,several time per day,yes,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,several time per day,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,never,no,2
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Play games,Computer,never,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Play games,Phone,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Play games,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use foreign language learning apps,Computer,never,yes,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use foreign language learning apps,Phone,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Use foreign language learning apps,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write a diary,Computer,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write a diary,Phone,several time per month,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write a diary,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Take notes of a lecture, presentation, etc.",Computer,several time per month,yes,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Take notes of a lecture, presentation, etc.",Phone,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet","Take notes of a lecture, presentation, etc.",Tablet,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write SMS,Computer,several time per week,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write SMS,Phone,several time per day,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write SMS,Tablet,never,no,3
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write emails,Computer,several time per day,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write emails,Phone,several time per day,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write emails,Tablet,never,no,4
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write blogs,Computer,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write blogs,Phone,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write blogs,Tablet,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write wikis,Computer,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write wikis,Phone,never,no,5
+S20,25-34,f,bcs,3,12,academic,french,PhD,english,"laptop, phone w, tablet",Write wikis,Tablet,never,no,5

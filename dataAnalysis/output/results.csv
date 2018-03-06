@@ -1,0 +1,100 @@
+Activity,Device,Average beneficiality,Exp,Never,perDay,perWeek,perMonth
+Listen to podcasts,Tablet,3.1,0.0,97.4,0.0,0.0,2.6
+Write a diary,Tablet,2.8,0.0,100.0,0.0,0.0,0.0
+Browse websites,Tablet,2.7,5.3,87.1,6.5,3.2,3.2
+Listen to voice messages,Tablet,2.0,0.0,100.0,0.0,0.0,0.0
+Watch movies,Tablet,2.8,7.7,100.0,0.0,0.0,0.0
+"Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,1.9,0.0,97.3,0.0,0.0,2.7
+Voice call,Tablet,2.0,0.0,97.4,0.0,0.0,2.6
+Listen to radio,Tablet,2.5,2.6,97.4,2.6,0.0,0.0
+Watch online lectures,Tablet,2.7,2.8,100.0,0.0,0.0,0.0
+"Read news, articles from newspapers and magazines",Tablet,3.3,13.5,90.3,3.2,3.2,3.2
+Write emails,Tablet,2.4,5.3,94.4,0.0,0.0,5.6
+"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,1.7,0.0,100.0,0.0,0.0,0.0
+Use dictionary,Tablet,3.3,12.8,91.7,2.8,0.0,5.6
+Watch TV shows,Tablet,3.2,2.6,100.0,0.0,0.0,0.0
+Read news and articles on social media,Tablet,2.4,2.6,93.9,3.0,3.0,0.0
+Use foreign language learning apps,Tablet,3.1,2.7,97.3,0.0,0.0,2.7
+Write SMS,Tablet,2.2,0.0,97.1,0.0,0.0,2.9
+Read e-mails,Tablet,2.5,5.1,93.5,0.0,3.2,3.2
+Record voice (make an audio recording of yourself),Tablet,2.3,0.0,100.0,0.0,0.0,0.0
+"Make a reservation for transportation, restaurant, hotel, etc.",Tablet,1.9,2.6,100.0,0.0,0.0,0.0
+Watch news,Tablet,3.1,5.3,94.3,2.9,2.9,0.0
+Write blogs,Tablet,2.3,0.0,100.0,0.0,0.0,0.0
+Video call,Tablet,2.5,0.0,97.3,0.0,0.0,2.7
+Read posts on social media,Tablet,2.1,0.0,91.2,5.9,2.9,0.0
+Read messages on social media,Tablet,2.3,0.0,91.2,5.9,0.0,2.9
+Play games,Tablet,2.7,0.0,100.0,0.0,0.0,0.0
+"Take notes of a lecture, presentation, etc.",Tablet,1.8,0.0,100.0,0.0,0.0,0.0
+Read fiction,Tablet,2.7,7.7,90.6,3.1,3.1,3.1
+Record videos,Tablet,2.1,0.0,100.0,0.0,0.0,0.0
+Read SMS,Tablet,2.0,0.0,94.6,0.0,2.7,2.7
+Listen to music,Tablet,2.9,2.6,94.4,0.0,5.6,0.0
+Write wikis,Tablet,2.0,0.0,100.0,0.0,0.0,0.0
+Write messages on social media (synchronous online chatting),Tablet,2.2,0.0,97.2,0.0,0.0,2.8
+Listen to podcasts,Phone,3.8,15.4,70.0,10.0,10.0,10.0
+Write a diary,Phone,3.0,2.6,94.7,0.0,5.3,0.0
+Browse websites,Phone,3.3,47.5,9.1,72.7,9.1,9.1
+Listen to voice messages,Phone,2.6,5.1,72.2,0.0,16.7,11.1
+Watch movies,Phone,3.0,5.0,89.7,3.4,0.0,6.9
+"Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,2.3,2.6,86.4,0.0,9.1,4.5
+Voice call,Phone,2.7,10.3,40.0,13.3,26.7,20.0
+Listen to radio,Phone,2.8,5.1,87.1,9.7,0.0,3.2
+Watch online lectures,Phone,3.1,10.5,93.3,0.0,3.3,3.3
+"Read news, articles from newspapers and magazines",Phone,3.8,30.0,23.1,61.5,0.0,15.4
+Write emails,Phone,2.9,25.6,61.1,5.6,22.2,11.1
+"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,2.1,12.8,89.3,3.6,7.1,0.0
+Use dictionary,Phone,4.3,77.5,23.1,69.2,7.7,0.0
+Watch TV shows,Phone,3.6,12.5,88.5,3.8,3.8,3.8
+Read news and articles on social media,Phone,2.8,12.8,43.8,43.8,6.2,6.2
+Use foreign language learning apps,Phone,3.8,25.6,72.7,4.5,9.1,13.6
+Write SMS,Phone,2.6,23.1,33.3,58.3,8.3,0.0
+Read e-mails,Phone,2.9,32.5,25.0,66.7,8.3,0.0
+Record voice (make an audio recording of yourself),Phone,3.1,18.4,97.0,0.0,0.0,3.0
+"Make a reservation for transportation, restaurant, hotel, etc.",Phone,2.4,10.3,68.2,0.0,0.0,31.8
+Watch news,Phone,3.5,12.8,66.7,14.3,9.5,9.5
+Write blogs,Phone,2.4,2.6,100.0,0.0,0.0,0.0
+Video call,Phone,2.9,0.0,78.3,4.3,4.3,13.0
+Read posts on social media,Phone,2.3,10.3,35.7,35.7,21.4,7.1
+Read messages on social media,Phone,2.5,15.0,37.5,56.2,0.0,6.2
+Play games,Phone,3.0,5.1,90.0,0.0,3.3,6.7
+"Take notes of a lecture, presentation, etc.",Phone,1.9,7.7,97.2,0.0,0.0,2.8
+Read fiction,Phone,2.4,20.0,82.1,10.7,0.0,7.1
+Record videos,Phone,2.8,17.9,88.9,3.7,3.7,3.7
+Read SMS,Phone,2.7,15.4,27.3,54.5,9.1,9.1
+Listen to music,Phone,3.6,28.2,41.7,41.7,8.3,8.3
+Write wikis,Phone,2.1,0.0,100.0,0.0,0.0,0.0
+Write messages on social media (synchronous online chatting),Phone,2.6,2.6,77.3,18.2,4.5,0.0
+Listen to podcasts,Computer,3.4,17.9,82.8,3.4,10.3,3.4
+Write a diary,Computer,3.4,17.9,97.3,0.0,0.0,2.7
+Browse websites,Computer,3.6,59.0,9.1,63.6,18.2,9.1
+Listen to voice messages,Computer,2.9,21.1,93.8,0.0,6.2,0.0
+Watch movies,Computer,4.3,87.5,18.2,9.1,0.0,72.7
+"Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,2.3,7.7,78.3,0.0,8.7,13.0
+Voice call,Computer,2.3,0.0,94.6,0.0,2.7,2.7
+Listen to radio,Computer,3.2,10.3,82.4,5.9,2.9,8.8
+Watch online lectures,Computer,3.4,34.2,76.2,0.0,9.5,14.3
+"Read news, articles from newspapers and magazines",Computer,4.2,50.0,9.1,54.5,9.1,27.3
+Write emails,Computer,3.3,46.2,23.1,23.1,38.5,15.4
+"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,2.0,10.3,97.0,3.0,0.0,0.0
+Use dictionary,Computer,4.0,71.8,16.7,58.3,16.7,8.3
+Watch TV shows,Computer,4.0,50.0,50.0,6.2,25.0,18.8
+Read news and articles on social media,Computer,2.8,12.8,50.0,31.2,12.5,6.2
+Use foreign language learning apps,Computer,3.7,23.1,85.7,0.0,0.0,14.3
+Write SMS,Computer,2.2,5.4,90.0,3.3,6.7,0.0
+Read e-mails,Computer,3.0,35.0,16.7,41.7,33.3,8.3
+Record voice (make an audio recording of yourself),Computer,3.1,17.9,100.0,0.0,0.0,0.0
+"Make a reservation for transportation, restaurant, hotel, etc.",Computer,2.3,10.3,76.2,0.0,0.0,23.8
+Watch news,Computer,4.0,43.6,55.6,16.7,16.7,11.1
+Write blogs,Computer,2.9,12.8,100.0,0.0,0.0,0.0
+Video call,Computer,2.9,7.7,78.3,4.3,4.3,13.0
+Read posts on social media,Computer,2.4,10.8,56.2,25.0,12.5,6.2
+Read messages on social media,Computer,2.6,15.4,40.0,33.3,20.0,6.7
+Play games,Computer,3.1,23.1,87.5,3.1,6.2,3.1
+"Take notes of a lecture, presentation, etc.",Computer,2.7,35.9,88.0,4.0,4.0,4.0
+Read fiction,Computer,3.2,27.5,82.1,7.1,3.6,7.1
+Record videos,Computer,2.8,7.7,97.3,0.0,0.0,2.7
+Read SMS,Computer,2.2,10.5,96.7,3.3,0.0,0.0
+Listen to music,Computer,3.9,80.0,42.9,42.9,7.1,7.1
+Write wikis,Computer,2.2,2.6,100.0,0.0,0.0,0.0
+Write messages on social media (synchronous online chatting),Computer,2.6,10.3,73.9,17.4,4.3,4.3

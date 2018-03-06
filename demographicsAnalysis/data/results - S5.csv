@@ -1,0 +1,100 @@
+ID,Age,Gender,FL,Level,How long (months),Purpose,Other languages,Academic status,NL,Devices owned,Activity,Device,Frequency,Experienced,Beneficiality
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read fiction,Computer,never,yes,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read fiction,Phone,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read fiction,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Read news, articles from newspapers and magazines",Computer,several times per day,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Read news, articles from newspapers and magazines",Phone,several times per day,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Read news, articles from newspapers and magazines",Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use dictionary,Computer,several times per day,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use dictionary,Phone,several times per day,yes,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use dictionary,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Browse websites,Computer,several times per day,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Browse websites,Phone,several times per day,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Browse websites,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read e-mails,Computer,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read e-mails,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read e-mails,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read SMS,Computer,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read SMS,Phone,several times per day,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read SMS,Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read messages on social media,Computer,several times per day,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read messages on social media,Phone,several times per day,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read messages on social media,Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read news and articles on social media,Computer,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read news and articles on social media,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read news and articles on social media,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read posts on social media,Computer,several times per day,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read posts on social media,Phone,several times per day,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Read posts on social media,Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write messages on social media (synchronous online chatting),Computer,several times per month,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write messages on social media (synchronous online chatting),Phone,several times per week,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write messages on social media (synchronous online chatting),Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,several times per month,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,several times per week,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch online lectures,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch online lectures,Phone,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch online lectures,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch news,Computer,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch news,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch news,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to podcasts,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to podcasts,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to podcasts,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to voice messages,Computer,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to voice messages,Phone,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to voice messages,Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to music,Computer,several times per day,yes,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to music,Phone,several times per day,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to music,Tablet,never,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch TV shows,Computer,several times per month,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch TV shows,Phone,several times per month,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch TV shows,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch movies,Computer,several times per month,yes,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch movies,Phone,several times per month,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Watch movies,Tablet,never,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to radio,Computer,several times per month,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to radio,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Listen to radio,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Voice call,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Voice call,Phone,several times per month,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Voice call,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record voice (make an audio recording of yourself),Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record voice (make an audio recording of yourself),Phone,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record voice (make an audio recording of yourself),Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record videos,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record videos,Phone,several times per month,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Record videos,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Computer,several times per month,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Phone,several times per month,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Video call,Computer,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Video call,Phone,several times per month,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Video call,Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Play games,Computer,several times per week,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Play games,Phone,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Play games,Tablet,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use foreign language learning apps,Computer,never,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use foreign language learning apps,Phone,several times per month,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Use foreign language learning apps,Tablet,never,no,5
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write a diary,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write a diary,Phone,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write a diary,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Take notes of a lecture, presentation, etc.",Computer,never,yes,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Take notes of a lecture, presentation, etc.",Phone,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w","Take notes of a lecture, presentation, etc.",Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write SMS,Computer,never,no,1
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write SMS,Phone,several times per day,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write SMS,Tablet,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write emails,Computer,several times per week,yes,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write emails,Phone,several times per week,yes,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write emails,Tablet,never,no,4
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write blogs,Computer,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write blogs,Phone,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write blogs,Tablet,never,no,2
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write wikis,Computer,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write wikis,Phone,never,no,3
+S5,19-24,m,Czech,1,0.75,Language requirement,Spanish,Senior,English,"laptop, desktop, phone w",Write wikis,Tablet,never,no,3

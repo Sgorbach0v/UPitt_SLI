@@ -1,0 +1,100 @@
+ID,Age,Gender,FL,Level,How long (months),Purpose,Other languages,Academic status,NL,Devices owned,Activity,Device,Frequency,Experienced,Beneficiality
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read fiction,Computer,never,no,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read fiction,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read fiction,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Read news, articles from newspapers and magazines",Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Read news, articles from newspapers and magazines",Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Read news, articles from newspapers and magazines",Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use dictionary,Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use dictionary,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use dictionary,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Browse websites,Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Browse websites,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Browse websites,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read e-mails,Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read e-mails,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read e-mails,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read SMS,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read SMS,Phone,several time per day,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read SMS,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read messages on social media,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read messages on social media,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read messages on social media,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read news and articles on social media,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read news and articles on social media,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read news and articles on social media,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read posts on social media,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read posts on social media,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Read posts on social media,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write messages on social media (synchronous online chatting),Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write messages on social media (synchronous online chatting),Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write messages on social media (synchronous online chatting),Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch online lectures,Computer,several time per week,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch online lectures,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch online lectures,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch news,Computer,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch news,Phone,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch news,Tablet,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to podcasts,Computer,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to podcasts,Phone,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to podcasts,Tablet,never,no,
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to voice messages,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to voice messages,Phone,several time per month,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to voice messages,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to music,Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to music,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to music,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch TV shows,Computer,several time per month,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch TV shows,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch TV shows,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch movies,Computer,several time per month,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch movies,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Watch movies,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to radio,Computer,never,no,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to radio,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Listen to radio,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Voice call,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Voice call,Phone,several time per month,no,3
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Voice call,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record voice (make an audio recording of yourself),Computer,never,no,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record voice (make an audio recording of yourself),Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record voice (make an audio recording of yourself),Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record videos,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record videos,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Record videos,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Make a reservation for transportation, restaurant, hotel, etc.",Computer,several time per month,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Make a reservation for transportation, restaurant, hotel, etc.",Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Make a reservation for transportation, restaurant, hotel, etc.",Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Video call,Computer,several time per month,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Video call,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Video call,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Play games,Computer,never,no,3
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Play games,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Play games,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use foreign language learning apps,Computer,never,no,3
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use foreign language learning apps,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Use foreign language learning apps,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write a diary,Computer,never,no,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write a diary,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write a diary,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Take notes of a lecture, presentation, etc.",Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Take notes of a lecture, presentation, etc.",Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out","Take notes of a lecture, presentation, etc.",Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write SMS,Computer,never,no,3
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write SMS,Phone,several time per day,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write SMS,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write emails,Computer,several time per day,yes,5
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write emails,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write emails,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write blogs,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write blogs,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write blogs,Tablet,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write wikis,Computer,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write wikis,Phone,never,no,1
+S18,25-34,f,bcs,3,36,"cultural interest, communicate better, academic, language requirement",german,MA,English,"laptop, phone w/out",Write wikis,Tablet,never,no,1

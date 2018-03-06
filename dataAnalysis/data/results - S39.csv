@@ -1,0 +1,100 @@
+ID,Age,Gender,FL,Level,How long (months),Purpose,Other languages,Academic status,NL,Devices owned,Activity,Device,Frequency,Experienced,Beneficiality
+S39,19-24,m,russian,4,,,,,,,Read fiction,Computer,never,no,3
+S39,19-24,m,russian,4,,,,,,,Read fiction,Phone,never,no,3
+S39,19-24,m,russian,4,,,,,,,Read fiction,Tablet,never,no,3
+S39,19-24,m,russian,4,,,,,,,"Read news, articles from newspapers and magazines",Computer,several time per month,yes,4
+S39,19-24,m,russian,4,,,,,,,"Read news, articles from newspapers and magazines",Phone,several time per day,no,5
+S39,19-24,m,russian,4,,,,,,,"Read news, articles from newspapers and magazines",Tablet,never,yes,4
+S39,19-24,m,russian,4,,,,,,,Use dictionary,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Use dictionary,Phone,several time per day,yes,5
+S39,19-24,m,russian,4,,,,,,,Use dictionary,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Browse websites,Computer,several time per day,yes,5
+S39,19-24,m,russian,4,,,,,,,Browse websites,Phone,several time per day,yes,5
+S39,19-24,m,russian,4,,,,,,,Browse websites,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read e-mails,Computer,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Read e-mails,Phone,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Read e-mails,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read SMS,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read SMS,Phone,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Read SMS,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read messages on social media,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read messages on social media,Phone,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Read messages on social media,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read news and articles on social media,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read news and articles on social media,Phone,several time per day,no,2
+S39,19-24,m,russian,4,,,,,,,Read news and articles on social media,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read posts on social media,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Read posts on social media,Phone,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Read posts on social media,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write messages on social media (synchronous online chatting),Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write messages on social media (synchronous online chatting),Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write messages on social media (synchronous online chatting),Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Watch online lectures,Computer,several time per month,no,4
+S39,19-24,m,russian,4,,,,,,,Watch online lectures,Phone,several time per month,no,4
+S39,19-24,m,russian,4,,,,,,,Watch online lectures,Tablet,never,no,4
+S39,19-24,m,russian,4,,,,,,,Watch news,Computer,several time per day,no,5
+S39,19-24,m,russian,4,,,,,,,Watch news,Phone,several time per day,no,5
+S39,19-24,m,russian,4,,,,,,,Watch news,Tablet,never,no,5
+S39,19-24,m,russian,4,,,,,,,Listen to podcasts,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to podcasts,Phone,several time per month,no,5
+S39,19-24,m,russian,4,,,,,,,Listen to podcasts,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to voice messages,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to voice messages,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to voice messages,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to music,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to music,Phone,several time per day,no,2
+S39,19-24,m,russian,4,,,,,,,Listen to music,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Watch TV shows,Computer,never,no,5
+S39,19-24,m,russian,4,,,,,,,Watch TV shows,Phone,several time per month,no,5
+S39,19-24,m,russian,4,,,,,,,Watch TV shows,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Watch movies,Computer,several time per month,yes,5
+S39,19-24,m,russian,4,,,,,,,Watch movies,Phone,several time per month,no,5
+S39,19-24,m,russian,4,,,,,,,Watch movies,Tablet,never,no,5
+S39,19-24,m,russian,4,,,,,,,Listen to radio,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to radio,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Listen to radio,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Voice call,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Voice call,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Voice call,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record voice (make an audio recording of yourself),Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record voice (make an audio recording of yourself),Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record voice (make an audio recording of yourself),Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record videos,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record videos,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Record videos,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Make a reservation for transportation, restaurant, hotel, etc.",Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Make a reservation for transportation, restaurant, hotel, etc.",Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Make a reservation for transportation, restaurant, hotel, etc.",Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Video call,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Video call,Phone,several time per week,no,5
+S39,19-24,m,russian,4,,,,,,,Video call,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Play games,Computer,never,yes,5
+S39,19-24,m,russian,4,,,,,,,Play games,Phone,several time per month,no,5
+S39,19-24,m,russian,4,,,,,,,Play games,Tablet,never,no,3
+S39,19-24,m,russian,4,,,,,,,Use foreign language learning apps,Computer,several time per month,no,3
+S39,19-24,m,russian,4,,,,,,,Use foreign language learning apps,Phone,several time per month,no,3
+S39,19-24,m,russian,4,,,,,,,Use foreign language learning apps,Tablet,never,no,3
+S39,19-24,m,russian,4,,,,,,,Write a diary,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write a diary,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write a diary,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Take notes of a lecture, presentation, etc.",Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,"Take notes of a lecture, presentation, etc.",Phone,several time per day,yes,5
+S39,19-24,m,russian,4,,,,,,,"Take notes of a lecture, presentation, etc.",Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write SMS,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write SMS,Phone,several time per day,no,1
+S39,19-24,m,russian,4,,,,,,,Write SMS,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write emails,Computer,several time per week,no,1
+S39,19-24,m,russian,4,,,,,,,Write emails,Phone,several time per week,no,1
+S39,19-24,m,russian,4,,,,,,,Write emails,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write blogs,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write blogs,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write blogs,Tablet,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write wikis,Computer,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write wikis,Phone,never,no,1
+S39,19-24,m,russian,4,,,,,,,Write wikis,Tablet,never,no,1

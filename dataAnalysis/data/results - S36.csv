@@ -1,0 +1,100 @@
+ID,Age,Gender,FL,Level,How long (months),Purpose,Other languages,Academic status,NL,Devices owned,Activity,Device,Frequency,Experienced,Beneficiality
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read fiction,Computer,several time per week,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read fiction,Phone,several time per day,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read fiction,Tablet,never,,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Read news, articles from newspapers and magazines",Computer,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Read news, articles from newspapers and magazines",Phone,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Read news, articles from newspapers and magazines",Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use dictionary,Computer,several time per day,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use dictionary,Phone,several time per day,yes,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use dictionary,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Browse websites,Computer,several time per week,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Browse websites,Phone,several time per week,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Browse websites,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read e-mails,Computer,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read e-mails,Phone,several time per month,yes,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read e-mails,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read SMS,Computer,never,yes,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read SMS,Phone,never,yes,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read SMS,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read messages on social media,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read messages on social media,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read messages on social media,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read news and articles on social media,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read news and articles on social media,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read news and articles on social media,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read posts on social media,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read posts on social media,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Read posts on social media,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write messages on social media (synchronous online chatting),Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write messages on social media (synchronous online chatting),Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write messages on social media (synchronous online chatting),Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Create a post (eClass, FB, Twitter, Reddit, etc.)",Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch online lectures,Computer,never,yes,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch online lectures,Phone,never,yes,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch online lectures,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch news,Computer,several time per month,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch news,Phone,several time per month,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch news,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to podcasts,Computer,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to podcasts,Phone,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to podcasts,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to voice messages,Computer,several time per week,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to voice messages,Phone,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to voice messages,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to music,Computer,several time per month,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to music,Phone,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to music,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch TV shows,Computer,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch TV shows,Phone,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch TV shows,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch movies,Computer,several time per month,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch movies,Phone,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Watch movies,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to radio,Computer,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to radio,Phone,never,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Listen to radio,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Voice call,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Voice call,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Voice call,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record voice (make an audio recording of yourself),Computer,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record voice (make an audio recording of yourself),Phone,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record voice (make an audio recording of yourself),Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record videos,Computer,never,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record videos,Phone,several time per month,yes,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Record videos,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Make a reservation for transportation, restaurant, hotel, etc.",Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Video call,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Video call,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Video call,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Computer,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Phone,several time per month,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Get answers or assistance using voice search (e.g. Ok, Google; Siri)",Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Play games,Computer,several time per week,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Play games,Phone,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Play games,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use foreign language learning apps,Computer,several time per month,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use foreign language learning apps,Phone,several time per month,no,5
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Use foreign language learning apps,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write a diary,Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write a diary,Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write a diary,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Take notes of a lecture, presentation, etc.",Computer,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Take notes of a lecture, presentation, etc.",Phone,never,no,3
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w","Take notes of a lecture, presentation, etc.",Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write SMS,Computer,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write SMS,Phone,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write SMS,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write emails,Computer,several time per month,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write emails,Phone,several time per month,no,4
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write emails,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write blogs,Computer,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write blogs,Phone,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write blogs,Tablet,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write wikis,Computer,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write wikis,Phone,never,no,1
+S36,19-24,f,russian,2,24,"cultural interest, business/employment, academic, language requirement",spanish,MA,english,"laptop, phone w",Write wikis,Tablet,never,no,1
